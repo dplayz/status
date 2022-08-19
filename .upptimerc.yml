@@ -7,8 +7,8 @@ sites:
     url: https://dplayzgames.tk
   - name: Link Service 1
     url: https://dpg06.tk
-  - name: Link Service 2
-    url: https://lnksvc2.dpg06.tk
+  - name: Status Service
+    url: https://status.dplayzgames.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
