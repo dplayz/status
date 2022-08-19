@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1521,
-    "timeDay": 306,
-    "timeWeek": 1521,
-    "timeMonth": 1521,
-    "timeYear": 1521,
+    "time": 1221,
+    "timeDay": 310,
+    "timeWeek": 1221,
+    "timeMonth": 1221,
+    "timeYear": 1221,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,39 @@
     "icon": "https://favicons.githubusercontent.com/dpg06.tk",
     "slug": "link-service-1",
     "status": "up",
-    "uptime": "4.24%",
-    "uptimeDay": "4.64%",
-    "uptimeWeek": "4.24%",
-    "uptimeMonth": "4.24%",
-    "uptimeYear": "4.24%",
-    "time": 306,
-    "timeDay": 306,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "uptime": "5.58%",
+    "uptimeDay": "6.20%",
+    "uptimeWeek": "5.58%",
+    "uptimeMonth": "5.58%",
+    "uptimeYear": "5.58%",
+    "time": 304,
+    "timeDay": 304,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2022-08-19": 240,
       "2022-08-18": 1269
+    }
+  },
+  {
+    "name": "Hidden Blog",
+    "url": "$URL_SKLBLOG",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "hidden-blog",
+    "status": "down",
+    "uptime": "10.93%",
+    "uptimeDay": "10.93%",
+    "uptimeWeek": "10.93%",
+    "uptimeMonth": "10.93%",
+    "uptimeYear": "10.93%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-19": 0
     }
   },
   {
@@ -49,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 268,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   }
 ]
