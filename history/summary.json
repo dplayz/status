@@ -64,18 +64,16 @@
     "icon": "https://favicons.githubusercontent.com/status.dplayzgames06.tk",
     "slug": "status-service",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 578,
     "timeDay": 1315,
     "timeWeek": 578,
     "timeMonth": 578,
     "timeYear": 578,
-    "dailyMinutesDown": {
-      "2022-08-24": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
