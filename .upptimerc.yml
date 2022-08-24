@@ -11,6 +11,11 @@ sites:
     url: $URL_SKLBLOG
   - name: Status Service
     url: https://status.dplayzgames06.tk
+  - name: File Service
+    url: https://files.dplayzgames06.tk
+  - name: Workstation Service
+    url: https://workstation.dplayzgames06.tk
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
