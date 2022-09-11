@@ -22,9 +22,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dplayzgames06.tk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://dplayzgames06.tk/images/logo.png
   name: dplayz Games Service Status
-  introTitle: "dplayz Games Service Status is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "dplayz Games Service Status"
   navbar:
     - title: Info
       href: https://dplayzgames06.tk/info
