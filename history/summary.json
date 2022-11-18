@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-11-18": 681,
+      "2022-11-18": 694,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -155,19 +155,19 @@
     "url": "https://workstation.dplayzgames06.tk",
     "icon": "https://icons.duckduckgo.com/ip3/workstation.dplayzgames06.tk.ico",
     "slug": "workstation-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 6088,
-    "timeWeek": 2565,
-    "timeMonth": 1524,
-    "timeYear": 1443,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1436,
+    "timeDay": 4336,
+    "timeWeek": 2373,
+    "timeMonth": 1504,
+    "timeYear": 1436,
     "dailyMinutesDown": {
-      "2022-11-18": 0
+      "2022-11-18": 12
     }
   }
 ]
