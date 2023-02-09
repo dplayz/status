@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/diipii.tk.ico",
     "slug": "link-service-1",
     "status": "up",
-    "uptime": "42.67%",
+    "uptime": "42.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.67%",
-    "uptimeYear": "42.67%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "42.82%",
     "time": 731,
     "timeDay": 281,
     "timeWeek": 362,
@@ -227,5 +227,25 @@
     "timeMonth": 1628,
     "timeYear": 1449,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Down Test",
+    "url": "https://down.diipii.tk",
+    "icon": "https://icons.duckduckgo.com/ip3/down.diipii.tk.ico",
+    "slug": "down-test",
+    "status": "up",
+    "uptime": "17.01%",
+    "uptimeDay": "17.01%",
+    "uptimeWeek": "17.01%",
+    "uptimeMonth": "17.01%",
+    "uptimeYear": "17.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   }
 ]
