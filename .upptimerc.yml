@@ -17,7 +17,7 @@ sites:
     url: https://workstation.dplayzgames06.tk
   - name: Down Test 236951
     url: https://dplayzgames06.tk
-    maxResponseTime: 1
+    maxResponseTime: 1000000
 
 
 status-website:
