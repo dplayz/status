@@ -16,7 +16,8 @@ sites:
   - name: Workstation Service
     url: https://workstation.dplayzgames06.tk
   - name: Down Test 23695
-    url: https://down.diipii.tk
+    url: https://dplayzgames06.tk
+    maxResponseTime: 1
 
 
 status-website:
