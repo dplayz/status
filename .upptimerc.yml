@@ -3,11 +3,13 @@ owner: dplayz # Your GitHub organization or username, where this repository live
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Main Website
+  - name: Main Website Service
     url: https://dplayzgames06.tk
-  - name: Link Service 1
+  - name: Static Link Service
     url: https://diipii.tk
-  - name: Hidden Blog
+  - name: Dynamic Link Service
+    url: https://dy-lnk.diipii.tk
+  - name: Hidden Blog Service
     url: $URL_SKLBLOG
   - name: Status Service
     url: https://status.dplayzgames06.tk
@@ -15,9 +17,6 @@ sites:
     url: https://files.dplayzgames06.tk
   - name: Workstation Service
     url: https://workstation.dplayzgames06.tk
-  - name: Down Test 236951
-    url: https://dplayzgames06.tk
-    maxResponseTime: 1000000
 
 
 status-website:
@@ -26,7 +25,7 @@ status-website:
   cname: status.dplayzgames06.tk
   # baseUrl: /your-repo-name
   logoUrl: https://dplayzgames06.tk/images/logo.png
-  name: dplayz Games Service Status
+  name: dplayz Games Services Status
   introTitle: "dplayz Games Service Status"
   navbar:
     - title: Info
@@ -36,7 +35,7 @@ status-website:
     - title: Workstation
       href: https://workstation.dplayzgames06.tk
 i18n:
-  footer: "Copyright 2021-2022 by dplayz Games. Powered by [Upptime](https://github.com/upptime/upptime)"
+  footer: "Copyright 2021-2023 by dplayz Games. Powered by [Upptime](https://github.com/upptime/upptime)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
