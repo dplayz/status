@@ -8,7 +8,7 @@ sites:
   - name: Static Link Service
     url: https://diipii.tk
   - name: Dynamic Link Service
-    url: https://dy-lnk.diipii.tk
+    url: https://lnksvc2.diipii.tk
   - name: Hidden Blog Service
     url: $URL_SKLBLOG
   - name: Status Service
