@@ -1,6 +1,5 @@
-# Change these first
-owner: dplayz # Your GitHub organization or username, where this repository lives
-repo: statuspage # The name of this repository
+owner: dplayz
+repo: status
 
 sites:
   - name: Main Website Service
@@ -20,10 +19,7 @@ sites:
 
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dplayzgames06.tk
-  # baseUrl: /your-repo-name
   logoUrl: https://dplayzgames06.tk/images/logo.png
   name: dplayz Games Services Status
   introTitle: "dplayz Games Service Status"
@@ -36,6 +32,3 @@ status-website:
       href: https://workstation.dplayzgames06.tk
 i18n:
   footer: "Copyright 2021-2023 by dplayz Games. Powered by [Upptime](https://github.com/upptime/upptime)"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
