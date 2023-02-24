@@ -20,7 +20,7 @@ sites:
 
 status-website:
   cname: status.dplayzgames06.tk
-  logoUrl: /statussvclogo.png
+  logoUrl: https://raw.githubusercontent.com/dplayz/status/master/assets/statussvclogo.png
   name: dplayz Games Services Status
   introTitle: "dplayz Games Service Status"
   navbar:
