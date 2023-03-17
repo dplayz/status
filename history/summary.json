@@ -129,19 +129,19 @@
     "url": "https://workstation.dplayzgames06.tk",
     "icon": "https://icons.duckduckgo.com/ip3/workstation.dplayzgames06.tk.ico",
     "slug": "workstation-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1501,
-    "timeDay": 6130,
-    "timeWeek": 3254,
-    "timeMonth": 1807,
+    "timeDay": 4598,
+    "timeWeek": 3063,
+    "timeMonth": 1798,
     "timeYear": 1501,
     "dailyMinutesDown": {
-      "2023-03-17": 0
+      "2023-03-17": 11
     }
   }
 ]
