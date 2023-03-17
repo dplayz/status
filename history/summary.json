@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnksvc2.diipii.tk.ico",
     "slug": "dynamic-link-service",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.11%",
     "time": 442,
     "timeDay": 975,
     "timeWeek": 510,
@@ -129,17 +129,19 @@
     "url": "https://workstation.dplayzgames06.tk",
     "icon": "https://icons.duckduckgo.com/ip3/workstation.dplayzgames06.tk.ico",
     "slug": "workstation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1461,
-    "timeDay": 1547,
-    "timeWeek": 2189,
-    "timeMonth": 1519,
-    "timeYear": 1461,
-    "dailyMinutesDown": {}
+    "time": 1501,
+    "timeDay": 6130,
+    "timeWeek": 3254,
+    "timeMonth": 1807,
+    "timeYear": 1501,
+    "dailyMinutesDown": {
+      "2023-03-17": 0
+    }
   }
 ]
