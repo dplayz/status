@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dplayzgames06.tk.ico",
     "slug": "main-website-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 377,
     "timeWeek": 370,
     "timeMonth": 429,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2023-03-22": 11
+      "2023-03-22": 0
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/diipii.tk.ico",
     "slug": "static-link-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 402,
     "timeWeek": 345,
     "timeMonth": 409,
     "timeYear": 400,
-    "dailyMinutesDown": {
-      "2023-03-22": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dynamic Link Service",
@@ -45,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnksvc2.diipii.tk.ico",
     "slug": "dynamic-link-service",
     "status": "up",
-    "uptime": "98.32%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "98.32%",
+    "uptime": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "98.35%",
     "time": 647,
     "timeDay": 816,
     "timeWeek": 1661,
     "timeMonth": 734,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2023-03-22": 10,
       "2023-03-07": 22,
       "2023-02-12": 473,
       "2023-02-11": 430
