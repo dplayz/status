@@ -4,28 +4,30 @@
     "url": "https://dplayzgames06.tk",
     "icon": "https://icons.duckduckgo.com/ip3/dplayzgames06.tk.ico",
     "slug": "main-website-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 425,
-    "timeDay": 363,
+    "timeDay": 384,
     "timeWeek": 360,
     "timeMonth": 424,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 2
+    }
   },
   {
     "name": "Static Link Service",
     "url": "https://diipii.tk",
     "icon": "https://icons.duckduckgo.com/ip3/diipii.tk.ico",
     "slug": "static-link-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 398,
@@ -33,25 +35,28 @@
     "timeWeek": 343,
     "timeMonth": 408,
     "timeYear": 398,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 1
+    }
   },
   {
     "name": "Dynamic Link Service",
     "url": "https://lnksvc2.diipii.tk",
     "icon": "https://icons.duckduckgo.com/ip3/lnksvc2.diipii.tk.ico",
     "slug": "dynamic-link-service",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 640,
     "timeDay": 399,
     "timeWeek": 1650,
     "timeMonth": 734,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2023-03-23": 1,
       "2023-03-07": 22,
       "2023-02-12": 473,
       "2023-02-11": 430
@@ -62,9 +67,9 @@
     "url": "$URL_SKLBLOG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hidden-blog-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +78,9 @@
     "timeWeek": 348,
     "timeMonth": 403,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 0
+    }
   },
   {
     "name": "Status Service",
