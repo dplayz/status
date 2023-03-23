@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dplayzgames06.tk.ico",
     "slug": "main-website-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 377,
+    "timeDay": 343,
     "timeWeek": 359,
     "timeMonth": 422,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-03-23": 11
+      "2023-03-23": 0
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/diipii.tk.ico",
     "slug": "static-link-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 315,
+    "timeDay": 336,
     "timeWeek": 339,
     "timeMonth": 405,
     "timeYear": 396,
-    "dailyMinutesDown": {
-      "2023-03-23": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dynamic Link Service",
@@ -45,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnksvc2.diipii.tk.ico",
     "slug": "dynamic-link-service",
     "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "98.37%",
+    "uptime": "98.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "98.39%",
     "time": 634,
-    "timeDay": 383,
+    "timeDay": 351,
     "timeWeek": 1505,
     "timeMonth": 722,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-03-23": 10,
       "2023-03-07": 22,
       "2023-02-12": 473,
       "2023-02-11": 430
@@ -68,19 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hidden-blog-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 389,
     "timeDay": 338,
     "timeWeek": 347,
     "timeMonth": 401,
     "timeYear": 389,
-    "dailyMinutesDown": {
-      "2023-03-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status Service",
