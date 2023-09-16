@@ -24,9 +24,9 @@
     "url": "https://diipii.tk",
     "icon": "https://icons.duckduckgo.com/ip3/diipii.tk.ico",
     "slug": "static-link-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 362,
     "timeMonth": 280,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-16": 0
+    }
   },
   {
     "name": "Dynamic Link Service",
     "url": "https://lnksvc2.diipii.tk",
     "icon": "https://icons.duckduckgo.com/ip3/lnksvc2.diipii.tk.ico",
     "slug": "dynamic-link-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.65%",
@@ -54,6 +56,7 @@
     "timeMonth": 392,
     "timeYear": 500,
     "dailyMinutesDown": {
+      "2023-09-16": 0,
       "2023-08-20": 84,
       "2023-08-17": 23,
       "2023-07-31": 20,
