@@ -5,9 +5,9 @@ sites:
   - name: Main Website Service
     url: https://dplayzgames06.tk
   - name: Static Link Service
-    url: https://diipii.tk
+    url: https://dpg06.tk
   - name: Dynamic Link Service
-    url: https://lnksvc2.diipii.tk
+    url: https://lnksvc2.dpg06.tk
   - name: Hidden Blog Service
     url: $URL_SKLBLOG
   - name: Status Service
@@ -16,6 +16,8 @@ sites:
     url: https://files.dplayzgames06.tk
   - name: Workstation Service
     url: https://workstation.dplayzgames06.tk
+  - name: Fastbin Service
+    url: https://paste.dplayzgames06.tk
 
 
 status-website:
