@@ -126,15 +126,15 @@
     "url": "https://files.dplayzgames06.tk",
     "icon": "https://icons.duckduckgo.com/ip3/files.dplayzgames06.tk.ico",
     "slug": "file-service",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "94.19%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "94.18%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "99.51%",
     "time": 1231,
-    "timeDay": 913,
-    "timeWeek": 1056,
+    "timeDay": 917,
+    "timeWeek": 1045,
     "timeMonth": 1029,
     "timeYear": 1119,
     "dailyMinutesDown": {
@@ -162,8 +162,7 @@
       "2023-12-17": 93,
       "2023-12-16": 115,
       "2023-12-15": 170,
-      "2023-12-14": 226,
-      "2023-12-13": 1
+      "2023-12-14": 143
     }
   },
   {
