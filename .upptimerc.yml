@@ -3,21 +3,21 @@ repo: status
 
 sites:
   - name: Main Website Service
-    url: https://dplayzgames06.tk
+    url: https://dpG06.top
   - name: Static Link Service
-    url: https://dpg06.tk
+    url: https://l.dpg06.top
   - name: Dynamic Link Service
-    url: https://lnksvc2.dpg06.tk
+    url: https://lv2.dpg06.top
   - name: Hidden Blog Service
     url: $URL_SKLBLOG
   - name: Status Service
-    url: https://status.dplayzgames06.tk
+    url: https://status.dpG06.top
 # - name: File Service
 #   url: https://files.dplayzgames06.tk
   - name: Workstation Service
-    url: https://workstation.dplayzgames06.tk
+    url: https://workstation.dpG06.top
   - name: Fastbin Service
-    url: https://paste.dplayzgames06.tk
+    url: https://paste.dpG06.top
 
 
 status-website:
