@@ -21,16 +21,16 @@ sites:
 
 
 status-website:
-  cname: status.dplayzgames06.tk
+  cname: status.dpG06.top
   logoUrl: https://raw.githubusercontent.com/dplayz/status/master/assets/statussvclogo.png
   name: dplayz Games Services Status
   introTitle: "dplayz Games Service Status"
   navbar:
     - title: Info
-      href: https://dplayzgames06.tk/info
+      href: https://dpG06.top/info
     - title: Main Website
-      href: https://dplayzgames06.tk
+      href: https://dpG06.top
     - title: Workstation
-      href: https://workstation.dplayzgames06.tk
+      href: https://workstation.dpG06.top
 i18n:
   footer: "Copyright 2021-2023 by dplayz Games. Powered by [Upptime](https://github.com/upptime/upptime)"
