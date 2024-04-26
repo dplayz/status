@@ -71,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2024-04-26": 463,
+      "2024-04-26": 475,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -185,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-04-26": 463,
+      "2024-04-26": 475,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -297,13 +297,13 @@
     "url": "https://workstation.dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/workstation.dpg06.top.ico",
     "slug": "workstation-service",
-    "status": "up",
-    "uptime": "89.48%",
-    "uptimeDay": "2.03%",
-    "uptimeWeek": "3.04%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "82.40%",
-    "time": 1413,
+    "status": "down",
+    "uptime": "89.64%",
+    "uptimeDay": "2.84%",
+    "uptimeWeek": "3.16%",
+    "uptimeMonth": "0.47%",
+    "uptimeYear": "82.66%",
+    "time": 1412,
     "timeDay": 976,
     "timeWeek": 1038,
     "timeMonth": 1084,
@@ -374,8 +374,7 @@
       "2024-02-24": 1440,
       "2024-02-23": 1405,
       "2024-02-22": 1393,
-      "2024-02-21": 1428,
-      "2024-02-20": 203
+      "2024-02-21": 244
     }
   },
   {
@@ -395,7 +394,7 @@
     "timeMonth": 251,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-04-26": 450,
+      "2024-04-26": 462,
       "2024-04-25": 1390,
       "2024-04-24": 1374,
       "2024-04-23": 1395,
