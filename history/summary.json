@@ -71,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-04-29": 256,
+      "2024-04-29": 270,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -181,14 +181,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.48%",
+    "uptimeYear": "77.47%",
     "time": 306,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-04-29": 256,
+      "2024-04-29": 270,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -304,7 +304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/workstation.dpg06.top.ico",
     "slug": "workstation-service",
     "status": "down",
-    "uptime": "89.57%",
+    "uptime": "89.56%",
     "uptimeDay": "0.82%",
     "uptimeWeek": "4.10%",
     "uptimeMonth": "0.60%",
@@ -315,7 +315,7 @@
     "timeMonth": 1070,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2024-04-29": 244,
+      "2024-04-29": 258,
       "2024-04-28": 1348,
       "2024-04-27": 1427,
       "2024-04-26": 1378,
@@ -389,12 +389,12 @@
     "url": "https://paste.dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/paste.dpg06.top.ico",
     "slug": "fastbin-service",
-    "status": "up",
-    "uptime": "69.78%",
-    "uptimeDay": "0.85%",
-    "uptimeWeek": "3.09%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "69.78%",
+    "status": "down",
+    "uptime": "69.88%",
+    "uptimeDay": "1.84%",
+    "uptimeWeek": "3.23%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "69.88%",
     "time": 277,
     "timeDay": 259,
     "timeWeek": 240,
@@ -469,7 +469,7 @@
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1405,
-      "2024-02-21": 1323
+      "2024-02-21": 1027
     }
   }
 ]
