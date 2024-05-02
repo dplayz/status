@@ -71,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2024-05-02": 991,
+      "2024-05-02": 1003,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -184,14 +184,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.52%",
+    "uptimeYear": "76.51%",
     "time": 306,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-05-02": 991,
+      "2024-05-02": 1003,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -321,7 +321,7 @@
     "timeMonth": 1054,
     "timeYear": 1341,
     "dailyMinutesDown": {
-      "2024-05-02": 892,
+      "2024-05-02": 904,
       "2024-05-01": 1412,
       "2024-04-30": 1400,
       "2024-04-29": 1416,
@@ -384,12 +384,12 @@
     "url": "https://paste.dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/paste.dpg06.top.ico",
     "slug": "fastbin-service",
-    "status": "up",
-    "uptime": "72.42%",
-    "uptimeDay": "6.63%",
-    "uptimeWeek": "3.67%",
-    "uptimeMonth": "3.93%",
-    "uptimeYear": "72.42%",
+    "status": "down",
+    "uptime": "72.47%",
+    "uptimeDay": "7.44%",
+    "uptimeWeek": "3.72%",
+    "uptimeMonth": "3.96%",
+    "uptimeYear": "72.47%",
     "time": 278,
     "timeDay": 317,
     "timeWeek": 251,
@@ -459,7 +459,7 @@
       "2024-03-03": 1421,
       "2024-03-02": 1417,
       "2024-03-01": 1428,
-      "2024-02-29": 826
+      "2024-02-29": 671
     }
   }
 ]
