@@ -60,7 +60,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lv2.dpg06.top.ico",
     "slug": "dynamic-link-service",
     "status": "down",
-    "uptime": "79.27%",
+    "uptime": "79.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -71,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2024-05-04": 809,
+      "2024-05-04": 821,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -193,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-05-04": 809,
+      "2024-05-04": 821,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -318,14 +318,14 @@
     "uptimeDay": "1.92%",
     "uptimeWeek": "3.98%",
     "uptimeMonth": "4.23%",
-    "uptimeYear": "86.78%",
+    "uptimeYear": "86.77%",
     "time": 1405,
     "timeDay": 1079,
     "timeWeek": 1041,
     "timeMonth": 1053,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2024-05-04": 809,
+      "2024-05-04": 821,
       "2024-05-03": 1362,
       "2024-05-02": 1313,
       "2024-05-01": 1412,
@@ -383,12 +383,12 @@
     "url": "https://paste.dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/paste.dpg06.top.ico",
     "slug": "fastbin-service",
-    "status": "up",
-    "uptime": "72.86%",
-    "uptimeDay": "5.80%",
-    "uptimeWeek": "3.75%",
-    "uptimeMonth": "4.00%",
-    "uptimeYear": "72.86%",
+    "status": "down",
+    "uptime": "73.34%",
+    "uptimeDay": "6.61%",
+    "uptimeWeek": "3.87%",
+    "uptimeMonth": "4.03%",
+    "uptimeYear": "73.34%",
     "time": 278,
     "timeDay": 285,
     "timeWeek": 273,
@@ -457,8 +457,7 @@
       "2024-03-06": 1351,
       "2024-03-05": 1410,
       "2024-03-04": 1423,
-      "2024-03-03": 1421,
-      "2024-03-02": 381
+      "2024-03-03": 227
     }
   }
 ]
