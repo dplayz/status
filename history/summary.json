@@ -60,7 +60,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lv2.dpg06.top.ico",
     "slug": "dynamic-link-service",
     "status": "down",
-    "uptime": "78.86%",
+    "uptime": "78.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -71,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-05-06": 1279,
+      "2024-05-06": 1291,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
@@ -184,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hidden-blog-service",
     "status": "down",
-    "uptime": "80.03%",
+    "uptime": "80.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-05-06": 1279,
+      "2024-05-06": 1291,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
@@ -317,12 +317,12 @@
     "url": "https://workstation.dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/workstation.dpg06.top.ico",
     "slug": "workstation-service",
-    "status": "up",
-    "uptime": "92.08%",
-    "uptimeDay": "0.58%",
-    "uptimeWeek": "3.14%",
-    "uptimeMonth": "4.05%",
-    "uptimeYear": "86.52%",
+    "status": "down",
+    "uptime": "92.10%",
+    "uptimeDay": "1.40%",
+    "uptimeWeek": "3.26%",
+    "uptimeMonth": "4.08%",
+    "uptimeYear": "86.55%",
     "time": 1394,
     "timeDay": 1175,
     "timeWeek": 1091,
@@ -379,7 +379,7 @@
       "2024-03-20": 1414,
       "2024-03-19": 1393,
       "2024-03-18": 1440,
-      "2024-03-17": 865
+      "2024-03-17": 707
     }
   },
   {
@@ -399,7 +399,7 @@
     "timeMonth": 245,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-05-06": 1216,
+      "2024-05-06": 1228,
       "2024-05-05": 1407,
       "2024-05-04": 1344,
       "2024-05-03": 1429,
