@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.57%",
+    "uptimeWeek": "50.33%",
     "uptimeMonth": "80.46%",
     "uptimeYear": "97.55%",
     "time": 304,
@@ -37,7 +37,7 @@
     "status": "up",
     "uptime": "97.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.57%",
+    "uptimeWeek": "50.33%",
     "uptimeMonth": "80.46%",
     "uptimeYear": "97.44%",
     "time": 282,
@@ -87,18 +87,19 @@
     "url": "https://snippets.dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/snippets.dpg06.top.ico",
     "slug": "fastbin-service",
-    "status": "up",
-    "uptime": "68.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "41.57%",
-    "uptimeMonth": "7.66%",
-    "uptimeYear": "64.29%",
+    "status": "down",
+    "uptime": "68.37%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "50.33%",
+    "uptimeMonth": "9.67%",
+    "uptimeYear": "64.37%",
     "time": 262,
     "timeDay": 349,
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2024-11-04": 0,
       "2024-11-01": 230,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
@@ -233,7 +234,7 @@
       "2024-03-15": 1428,
       "2024-03-14": 1440,
       "2024-03-13": 1411,
-      "2024-03-12": 567
+      "2024-03-12": 165
     }
   }
 ]
