@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.55%",
     "time": 306,
-    "timeDay": 316,
-    "timeWeek": 344,
-    "timeMonth": 268,
+    "timeDay": 227,
+    "timeWeek": 241,
+    "timeMonth": 265,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2024-11-01": 230,
@@ -25,8 +25,7 @@
       "2024-10-26": 1128,
       "2024-02-09": 1427,
       "2024-02-08": 1440,
-      "2024-02-07": 1440,
-      "2024-02-06": 13
+      "2024-02-07": 1440
     }
   },
   {
@@ -41,10 +40,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.44%",
     "time": 285,
-    "timeDay": 236,
-    "timeWeek": 308,
-    "timeMonth": 223,
-    "timeYear": 317,
+    "timeDay": 181,
+    "timeWeek": 270,
+    "timeMonth": 225,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2024-11-01": 230,
       "2024-10-31": 1440,
@@ -55,8 +54,7 @@
       "2024-10-26": 1128,
       "2024-02-09": 1427,
       "2024-02-08": 1440,
-      "2024-02-07": 1440,
-      "2024-02-06": 610
+      "2024-02-07": 1440
     }
   },
   {
@@ -65,21 +63,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.dpg06.top.ico",
     "slug": "status-service",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 220,
-    "timeDay": 139,
-    "timeWeek": 239,
-    "timeMonth": 190,
-    "timeYear": 220,
+    "time": 221,
+    "timeDay": 501,
+    "timeWeek": 267,
+    "timeMonth": 203,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2024-02-09": 1427,
       "2024-02-08": 1440,
-      "2024-02-07": 1440,
-      "2024-02-06": 13
+      "2024-02-07": 1440
     }
   },
   {
@@ -88,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/snippets.dpg06.top.ico",
     "slug": "fastbin-service",
     "status": "up",
-    "uptime": "74.12%",
+    "uptime": "74.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.37%",
     "time": 259,
-    "timeDay": 164,
-    "timeWeek": 169,
-    "timeMonth": 179,
+    "timeDay": 187,
+    "timeWeek": 173,
+    "timeMonth": 181,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-11-04": 18,
