@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.55%",
     "time": 306,
-    "timeDay": 227,
-    "timeWeek": 241,
+    "timeDay": 336,
+    "timeWeek": 266,
     "timeMonth": 265,
     "timeYear": 325,
     "dailyMinutesDown": {
@@ -24,8 +24,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1128,
       "2024-02-09": 1427,
-      "2024-02-08": 1440,
-      "2024-02-07": 1440
+      "2024-02-08": 1440
     }
   },
   {
@@ -34,15 +33,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.dpg06.top.ico",
     "slug": "static-link-service",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.44%",
     "time": 285,
-    "timeDay": 181,
-    "timeWeek": 270,
-    "timeMonth": 225,
+    "timeDay": 103,
+    "timeWeek": 248,
+    "timeMonth": 219,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-11-01": 230,
@@ -53,8 +52,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1128,
       "2024-02-09": 1427,
-      "2024-02-08": 1440,
-      "2024-02-07": 1440
+      "2024-02-08": 1440
     }
   },
   {
@@ -69,14 +67,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 221,
-    "timeDay": 501,
-    "timeWeek": 267,
-    "timeMonth": 203,
+    "timeDay": 76,
+    "timeWeek": 255,
+    "timeMonth": 194,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-02-09": 1427,
-      "2024-02-08": 1440,
-      "2024-02-07": 1440
+      "2024-02-08": 1440
     }
   },
   {
@@ -85,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/snippets.dpg06.top.ico",
     "slug": "fastbin-service",
     "status": "up",
-    "uptime": "74.17%",
+    "uptime": "74.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.37%",
     "time": 259,
-    "timeDay": 187,
-    "timeWeek": 173,
-    "timeMonth": 181,
+    "timeDay": 124,
+    "timeWeek": 171,
+    "timeMonth": 176,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-11-04": 18,
