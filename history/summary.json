@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.84%",
     "time": 306,
-    "timeDay": 331,
-    "timeWeek": 261,
-    "timeMonth": 265,
+    "timeDay": 390,
+    "timeWeek": 303,
+    "timeMonth": 273,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2024-11-01": 230,
@@ -22,8 +22,7 @@
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
-      "2024-10-26": 1128,
-      "2024-02-09": 1427
+      "2024-10-26": 1128
     }
   },
   {
@@ -36,11 +35,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.84%",
     "time": 286,
-    "timeDay": 494,
-    "timeWeek": 267,
-    "timeMonth": 229,
+    "timeDay": 447,
+    "timeWeek": 285,
+    "timeMonth": 233,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2024-11-01": 230,
@@ -49,8 +48,7 @@
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
-      "2024-10-26": 1128,
-      "2024-02-09": 1427
+      "2024-10-26": 1128
     }
   },
   {
@@ -63,15 +61,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.47%",
     "time": 221,
-    "timeDay": 220,
-    "timeWeek": 240,
-    "timeMonth": 195,
+    "timeDay": 418,
+    "timeWeek": 280,
+    "timeMonth": 205,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2024-02-09": 1427
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fastbin Service",
@@ -79,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/snippets.dpg06.top.ico",
     "slug": "fastbin-service",
     "status": "up",
-    "uptime": "74.28%",
+    "uptime": "74.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.37%",
     "time": 259,
-    "timeDay": 354,
-    "timeWeek": 183,
-    "timeMonth": 182,
+    "timeDay": 322,
+    "timeWeek": 209,
+    "timeMonth": 189,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2024-11-04": 18,
