@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.37%",
     "time": 307,
-    "timeDay": 357,
-    "timeWeek": 342,
-    "timeMonth": 265,
+    "timeDay": 280,
+    "timeWeek": 311,
+    "timeMonth": 269,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2024-11-01": 230,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.37%",
     "time": 293,
-    "timeDay": 412,
-    "timeWeek": 266,
-    "timeMonth": 231,
-    "timeYear": 300,
+    "timeDay": 295,
+    "timeWeek": 268,
+    "timeMonth": 234,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2024-11-01": 230,
       "2024-10-31": 1440,
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 380,
-    "timeWeek": 277,
-    "timeMonth": 232,
+    "timeDay": 365,
+    "timeWeek": 299,
+    "timeMonth": 240,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -75,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/snippets.dpg06.top.ico",
     "slug": "fastbin-service",
     "status": "up",
-    "uptime": "77.17%",
+    "uptime": "77.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.53%",
+    "uptimeYear": "72.81%",
     "time": 263,
-    "timeDay": 387,
-    "timeWeek": 367,
-    "timeMonth": 370,
+    "timeDay": 379,
+    "timeWeek": 350,
+    "timeMonth": 369,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2024-11-04": 18,
@@ -188,8 +188,7 @@
       "2024-04-17": 1399,
       "2024-04-16": 1423,
       "2024-04-15": 1428,
-      "2024-04-14": 1440,
-      "2024-04-13": 1428
+      "2024-04-14": 1440
     }
   }
 ]
