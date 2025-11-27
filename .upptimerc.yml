@@ -4,16 +4,12 @@ repo: status
 sites:
   - name: Main Website Service
     url: https://dpG06.top
-  - name: Static Link Service
+  - name: Link Service
     url: https://go.dpg06.top
   - name: Status Service
     url: https://status.dpG06.top
-# - name: File Service
-#   url: https://files.dplayzgames06.tk
-# - name: Workstation Service
-#   url: https://workstation.dpG06.top
   - name: Fastbin Service
-    url: https://snippets.dpG06.top
+    url: https://code-snippets.dpG06.top
 
 
 status-website:
@@ -22,11 +18,11 @@ status-website:
   name: dp Services Status
   introTitle: "dp Services Status"
   navbar:
-    - title: Info
+    - title: About
       href: https://dpG06.top/info
     - title: Main Website
       href: https://dpG06.top
 #    - title: Workstation
 #      href: https://workstation.dpG06.top
 i18n:
-  footer: "Copyright 2021-2024 by dplayz Games. Powered by [Upptime](https://github.com/upptime/upptime)"
+  footer: "Copyright 2021-2025 by dp. Powered by [Upptime](https://github.com/upptime/upptime)"
