@@ -2,7 +2,12 @@ owner: dplayz
 repo: status
 
 sites:
-
+  - name: Main Website Service
+    url: https://dpG06.top
+  - name: Link Service
+    url: https://go.dpg06.top
+  - name: Status Service
+    url: https://status.dpG06.top
   - name: Fastbin Service
     url: https://code-snippets.dpG06.top
 
