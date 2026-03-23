@@ -2,44 +2,46 @@ owner: dplayz
 repo: status
 
 sites:
-  - name: [Website] Main Website (dp)
+  - name: "[Website] Main Website (dp)"
     url: https://dpG06.top
-  - name: [Website] Personal Website (Darwin)
+    slug: web-dp
+  - name: "[Website] Personal Website (Darwin)"
     url: https://darwinbaysa06.dpG06.top
-  - name: [Service] Link Shortener Service
+    slug: web-darwin
+  - name: "[Service] Link Shortener Service"
     url: https://go.dpg06.top
     slug: svc-link-shortener
-  - name: [Service] Status Monitoring
+  - name: "[Service] Status Monitoring"
     url: https://status.dpG06.top
     slug: svc-status-monitor
-  - name: [Service] Code Snippets (Fastbin)
+  - name: "[Service] Code Snippets (Fastbin)"
     url: https://code-snippets.dpG06.top
     slug: svc-code-snippets
-  - name: [Service] Project Distribution Service
+  - name: "[Service] Project Distribution Service"
     url: https://dist.dpg06.top
     slug: svc-r2-dist
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: [Service] Personal Files Service
+  - name: "[Service] Personal Files Service"
     url: $SITESEC_SVC_R2_PERSONAL
     expectedStatusCodes:
       - 200
       - 201
       - 404
     slug: svc-r2-personal
-  - name: [Service] School Projects Distribution Service
+  - name: "[Service] School Projects Distribution Service"
     url: $SITESEC_SVC_R2_SCHOOL
     expectedStatusCodes:
       - 200
       - 201
       - 404
     slug: svc-r2-school
-  - name: [Service] Repolist - Private Projects Frontent Service
+  - name: "[Service] Repolist - Private Projects Frontent Service"
     url: $SITESEC_SVC_PRIVATEREPOFRONT
     slug: svc-repolist
-  - name: [Project] SSStation Service
+  - name: "[Project] SSStation Service"
     url: https://ssstation.dpg06.top
     slug: proj-ssstation
 
