@@ -4,19 +4,19 @@
     "url": "https://dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/dpg06.top.ico",
     "slug": "web-dp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 168,
-    "timeWeek": 141,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 263,
+    "timeDay": 150,
+    "timeWeek": 140,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2026-04-21": 0
+      "2026-04-21": 84
     }
   },
   {
