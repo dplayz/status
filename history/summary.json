@@ -78,18 +78,20 @@
     "url": "https://code-snippets.dpG06.top",
     "icon": "https://icons.duckduckgo.com/ip3/code-snippets.dpg06.top.ico",
     "slug": "svc-code-snippets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 268,
-    "timeWeek": 427,
-    "timeMonth": 588,
-    "timeYear": 635,
-    "dailyMinutesDown": {}
+    "time": 625,
+    "timeDay": 236,
+    "timeWeek": 399,
+    "timeMonth": 576,
+    "timeYear": 625,
+    "dailyMinutesDown": {
+      "2026-05-01": 0
+    }
   },
   {
     "name": "[Service] Project Distribution Service",
