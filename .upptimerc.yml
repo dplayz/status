@@ -47,7 +47,7 @@ sites:
 
 status-website:
   cname: status.dpG06.top
-  logoUrl: https://github.com/darwinbaysa06/asset-library/blob/main/services/statusMonitor.png
+  logoUrl: https://raw.githubusercontent.com/darwinbaysa06/asset-library/refs/heads/main/services/statusMonitor.png
   name: dp Services Status Monitoring
   introTitle: "dp Services Status"
   navbar:
