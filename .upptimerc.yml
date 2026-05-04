@@ -1,4 +1,4 @@
-owner: dplayz
+owner: darwinbaysa06
 repo: status
 
 sites:
@@ -15,7 +15,7 @@ sites:
     url: https://status.dpG06.top
     slug: svc-status-monitor
   - name: "[Service] Code Snippets (Fastbin)"
-    url: https://code-snippets.dpG06.top
+    url: https://codesnips.dpg06.top/
     slug: svc-code-snippets
   - name: "[Service] Project Distribution Service"
     url: https://dist.dpg06.top
